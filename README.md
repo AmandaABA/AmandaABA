@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 sou nova por aqui 
 
 <!--
 **AmandaABA/AmandaABA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
